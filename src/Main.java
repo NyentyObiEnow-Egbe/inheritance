@@ -9,7 +9,8 @@ public class Main {
 		student.run();
 		System.out.println(student.age);
 		teacher.run();
-		 
+		teacher.run();
+
 	
 	}
 
