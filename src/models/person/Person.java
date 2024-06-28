@@ -1,3 +1,4 @@
+package models.person;
 
 public class Person {
     String email = "per@gmail.com";
@@ -24,7 +25,7 @@ public class Person {
     }
 
     void run() {
-        System.out.println("Person is running");
+        System.out.println("models.person.Person is running");
     }
 
 

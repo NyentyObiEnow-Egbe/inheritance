@@ -1,3 +1,4 @@
+package models.person;
 
 public class Student extends Person {
     String studentId;
@@ -15,7 +16,7 @@ public class Student extends Person {
 
 
     void display() {
-        System.out.println("display method in Student");
+        System.out.println("display method in models.person.Student");
         System.out.println(email);
         System.out.println(phoneNumber);
         System.out.println(name);
@@ -33,6 +34,6 @@ public class Student extends Person {
     }
 
     void attendClasses() {
-        System.out.println("attendClasses method in Student");
+        System.out.println("attendClasses method in models.person.Student");
     }
 }

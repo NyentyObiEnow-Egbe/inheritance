@@ -1,0 +1,12 @@
+
+7
+java:S1220""Move this file to a named package.8‰°³Ü‚2
+b	java:S107
+"AConstructor has 8 parameters, which is greater than 7 authorized.(¢”Ï›øÿÿÿÿ8°³Ü‚2
+]	java:S125"<This block of commented-out lines of code should be removed.(ßÎüıÿÿÿÿ8çßİ‚2
+W
+java:S1161":Add the "@Override" annotation above this method signature(–ºî§8’°³Ü‚2
+Q
+java:S1172"/Remove this unused method parameter "students".(õ¸ìÚÿÿÿÿÿ8“°³Ü‚2
+G
+java:S1172"*Remove this unused method parameter "age".(¢ğë8”°³Ü‚2
