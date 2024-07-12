@@ -1,4 +1,7 @@
-package abstrction;
+package abstrction.main;
+
+import abstrction.Person;
+import abstrction.Student;
 
 public class Main {
     public static void main(String[] args) {
