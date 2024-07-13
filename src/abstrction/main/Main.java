@@ -2,6 +2,7 @@ package abstrction.main;
 
 import abstrction.Person;
 import abstrction.Student;
+//import abstrction.*;
 
 public class Main {
     public static void main(String[] args) {
